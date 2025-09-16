@@ -136,7 +136,7 @@ Upon successful completion of this course, students will be able to:
 
 ## 👨‍🏫 Instructor Details
 
-- **Name:** [Dr. Md. Manzoor Elahee][Mmee](https://juniv.edu/teachers/melahee)   
+- **Name:** [[Dr. Md. Manzoor Elahee][Mmee]](https://juniv.edu/teachers/melahee)    
 - **Department:** History and Philosophy  
 - **Office:** As specified by department  
 - **Contact:** +8801301310861  
