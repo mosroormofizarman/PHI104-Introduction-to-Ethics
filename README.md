@@ -25,7 +25,7 @@ This repository is organized into the following folders:
 - **Course Code:** PHI104  
 - **Course Title:** Introduction to Ethics  
 - **Section:** 8  
-- **Instructor:** [[Dr. Md. Manzoor Elahee][Mmee]](https://juniv.edu/teachers/melahee)  
+- **Instructor:** [Dr. Md. Manzoor Elahee[Mmee]](https://juniv.edu/teachers/melahee)  
 - **Department:** History and Philosophy  
 - **School:** School of Humanities and Social Sciences  
 - **Program:** Undergraduate  
@@ -136,7 +136,7 @@ Upon successful completion of this course, students will be able to:
 
 ## 👨‍🏫 Instructor Details
 
-- **Name:** [[Dr. Md. Manzoor Elahee][Mmee]](https://juniv.edu/teachers/melahee)    
+- **Name:** [Dr. Md. Manzoor Elahee[Mmee]](https://juniv.edu/teachers/melahee)     
 - **Department:** History and Philosophy  
 - **Office:** As specified by department  
 - **Contact:** +8801301310861  
